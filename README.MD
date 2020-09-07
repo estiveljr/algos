@@ -1,4 +1,4 @@
-A self study project *
+A self study project * (WIP)
 
 Exemples of Asymptotic Notation Runnig time
 | Complesxity | Name | Exemples|
